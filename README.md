@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rayhan-Ahmed-7
-- 👀 I’m interested in learning new stuf
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Rayhan Ahmed
+- 👀 I’m interested in learning new stuf (could be anything)
+- 🌱 currently learning javaScript (even though it's confusing)
+- 💞️ I think when you have open minded atitude anything is posible😍...
 - 📫 How to reach me MY email(dev.rayhan7@gmail.com)
 
 <!---
