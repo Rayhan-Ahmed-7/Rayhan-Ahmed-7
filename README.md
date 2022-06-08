@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayhan Ahmed
-- 👀 I’m interested in learning new stuf (could be anything)
-- 🌱 currently learning javaScript (even though it's confusing)
+- 👀 I’m interested in learning new stuff (could be anything)
+- 🌱 currently learning javaScript , React js, nodejs
 - 💞️ I think when you have open minded atitude anything is posible😍...
 - 📫 How to reach me MY email(dev.rayhan7@gmail.com)
 
