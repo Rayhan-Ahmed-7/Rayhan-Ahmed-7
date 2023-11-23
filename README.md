@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rayhan Ahmed
 - 👀 I’m interested in learning new stuff (could be anything)
 - 🌱 currently learning javaScript , React js, nodejs
-- 💞️ I think when you have open minded atitude anything is posible😍...
+- 💞️ With an open-minded attitude, the realm of possibilities becomes boundless.
 - 📫 How to reach me MY email(dev.rayhan7@gmail.com)
 
 <!---
