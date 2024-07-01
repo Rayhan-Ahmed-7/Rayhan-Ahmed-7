@@ -15,7 +15,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently working in company as a software engineer.
+  🧑‍💼 I’m currently working as a software engineer at soft tech innovation ltd
   <br />
 </p>
 
