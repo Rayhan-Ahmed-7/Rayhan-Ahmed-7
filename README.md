@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Rayhan Ahmed, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from bangladesh .
+  Hi, I'm Rayhan Ahmed, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from bangladesh 🇧🇩.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
